@@ -1,0 +1,10 @@
+Column,Data Type,Description
+flight_id,string,Identifies a flight uniquely
+airline,string,Airline name that is operating the flight
+source,string,Departure airport/city code
+destination,string,Arrival airport/city code
+departure_time,datetime64[ns],Flight departure timestamp
+arrival_time,datetime64[ns],Flight arrival timestamp
+is_overnight,bool,Indicates whether the flight arrives on the next day(is an overnight flight)
+duration_minutes,float64,Calculated flight duration in minutes
+departure_date,object,Date of flight departure

@@ -1,0 +1,4 @@
+status,booking_count
+CONFIRMED,319
+CANCELLED,314
+PENDING,291

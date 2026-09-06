@@ -1,0 +1,13 @@
+2026-09-06 12:44:24,049 - INFO - Excel file loaded successfully.
+2026-09-06 12:44:24,087 - INFO - Flight schema validation passed.
+2026-09-06 12:44:24,315 - INFO - Flight duplicate removal completed. Records removed: 15
+2026-09-06 12:44:24,329 - WARNING - Rejected flight records: 1
+2026-09-06 12:44:24,584 - WARNING - Rejected booking records: 76
+2026-09-06 12:44:24,696 - WARNING - Rejected payment records: 137
+2026-09-06 12:44:25,040 - INFO - Pipeline completed successfully.2026-09-06 13:33:06,260 - INFO - Excel file loaded successfully.
+2026-09-06 13:33:06,308 - INFO - Flight schema validation passed.
+2026-09-06 13:33:06,578 - INFO - Flight duplicate removal completed. Records removed: 15
+2026-09-06 13:33:06,590 - WARNING - Rejected flight records: 1
+2026-09-06 13:33:06,848 - WARNING - Rejected booking records: 76
+2026-09-06 13:33:06,962 - WARNING - Rejected payment records: 137
+2026-09-06 13:33:07,324 - INFO - Pipeline completed successfully.

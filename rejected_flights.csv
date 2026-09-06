@@ -1,0 +1,2 @@
+flight_id,airline,source,destination,departure_time,arrival_time,duration,is_overnight,calculated_duration_minutes,time_anomaly,duration_mismatch,duration_minutes,route_anomaly,duration_anomaly,is_valid,rejection_reason
+SJ192,SPICEJET,HYD,BOM,2026-04-19 18:45:42,2026-04-18 23:45:42,300.0,False,-1140.0,True,True,-1140.0,False,True,False,Invalid departure/arrival timestamps
